@@ -38,21 +38,15 @@ print("{:.2f}".format(infinity_matrix))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://github.com/harshiniyu/Norm-of-a-matrix/assets/144979786/7f9e0bc0-decb-46e5-a25f-ad8132acbcf7)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://github.com/harshiniyu/Norm-of-a-matrix/assets/144979786/ed6baa25-09d3-4b1b-af4d-fd50c26b58e8)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![image](https://github.com/harshiniyu/Norm-of-a-matrix/assets/144979786/4436c566-d9e4-41a9-ad9a-ddd85a01bea7)
 
 ## Result
